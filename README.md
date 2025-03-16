@@ -7,16 +7,22 @@ ArduLink enables a modular plug and play approach for enthusiast to design and d
 
 </br>
 
-![General Block Diagram]{Block_Diag-Block_Diagram_Shield.jpg)
+![General Block Diagram](https://github.com/Taher1322/ArduLink-Firmware/blob/main/Block_Diag-Block_Diagram_Shield.jpg)
 
 </br>
 
-![ArduLink Shield](Screenshot 2025-03-13 195432.jpg)
+![ArduLink Shield](https://github.com/Taher1322/ArduLink-Firmware/blob/main/Screenshot%202025-03-13%20195432.png)
 
 #Pin Mapping
 
+| Arduino Uno/Mega  | ArduLink Shield |
+| ------------- | ------------- |
+| Analog Pin A0 | Moisture Sensor  |
+| Analog Pin A1  | Gas Sensor MQ7  |
+| Analog Pin A2 |  Ambient Light TEMT600 Sensor|
+
 </br>
-![ArduLink Shield with Arduino Uno](IMG_20250313_200011.jpg)
+![ArduLink Shield with Arduino Uno](https://github.com/Taher1322/ArduLink-Firmware/blob/main/IMG_20250313_200011.jpg)
 
 </br>
 
